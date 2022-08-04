@@ -1,2 +1,2 @@
 # soccer-news-api
-API
+API (provida via GitHub Pages) do App "Soccer News"
